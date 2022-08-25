@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@400;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --light-yellow-color: #fbffa7;
+  --light-blue-color: #b1c5ff;
+  --light-green-color: #b6ffc0;
+  --light-orange-color: #ff764d;
+  --light-purple-color: #d5b3ff;
+  --blue-color: #0000ff;
+}
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
